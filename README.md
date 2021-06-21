@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/t12fb47tmdnkl83i?svg=true)](https://ci.appveyor.com/project/Mogushkov/ahj-dnd)
+
 Правила сдачи задания:
 
 1. **Важно**: в рамках этого ДЗ нужно использовать yarn (поэтому файла `package-lock.json` в репозитории быть не должно)

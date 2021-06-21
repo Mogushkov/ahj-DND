@@ -11,5 +11,11 @@
         "sourceType": "module"
     },
     "rules": {
+        "no-undef": "off",
+        "no-restricted-syntax": [
+            "error",
+            "LabeledStatement",
+            "WithStatement"
+        ]
     }
 }
